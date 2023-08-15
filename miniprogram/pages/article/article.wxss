@@ -1,0 +1,24 @@
+page {
+    background-color: #c8e2f9;
+    
+}
+
+image {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top:60px
+}
+.title
+{
+  font-size: 35px;
+  font-weight: 1000;
+  text-align: center;
+  font-family: 楷体;
+}
+.normaltext{
+  font-size: 20px;
+  font-family: 楷体,仿宋,宋体;
+}

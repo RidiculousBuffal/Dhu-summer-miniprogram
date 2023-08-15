@@ -1,0 +1,16 @@
+<view class="container">
+<view class="title">
+  <text>
+  项目概述
+  </text>
+</view>
+<view class="normaltext" >
+<text decode="true">
+&nbsp;&nbsp; 这是东华大学实践团队暑期"一江一河赛道"中智慧社区项目中"宜居共建"的产物,旨在随手记录下社区的大小问题,帮助上海市两江沿岸社区建设!
+&nbsp;&nbsp;我们目前提供了3个可供选择的选项,分别是社区道路占用,社区设计破损,社区环境污染,未来我们将对其进一步细分,你可以使用我们的地图标记功能对你所在的小区进行标记,让更多的人看到,齐心协力解决身边的社区问题!
+</text>
+<image src="https://hpcow-1316827225.cos.ap-shanghai.myqcloud.com/dhu.png" mode="aspectFill"  style="width: 750rpx; height: 567rpx; display: inline-block; box-sizing: border-box; left: 0rpx; top: 106rpx">
+
+</image>
+</view>
+</view>

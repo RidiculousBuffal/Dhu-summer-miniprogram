@@ -1,0 +1,82 @@
+page {
+  width: 750rpx;
+  background-image: url("https://hpcow-1316827225.cos.ap-shanghai.myqcloud.com/a329aea5-d4cd-48fa-8694-a43669c37f4c.jpg");
+  background-size: auto auto;
+  background-repeat: no-repeat;
+  
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.userAvatar {
+  position: absolute;
+  top: 72rpx;
+  left: 296rpx;
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid #619bcd;
+}
+
+.content {
+  width: 500rpx;
+  height: 650rpx;
+  position: absolute;
+  position: absolute;
+  left: 50%;
+  top: 240rpx;
+  /* 宽度的一半 */
+  margin-left: -250rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.userName {
+  font-size: 60rpx;
+  margin-bottom: 10rpx;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.user-content {
+  font-size: 30rpx;
+  line-height: 40rpx;
+  text-align: center;
+  margin-bottom: 20rpx;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.art {
+  width: 400rpx;
+  height: 300rpx;
+  border: 14rpx #fff solid;
+  box-shadow:0px 1px 5px #9C9C9C;
+  margin: 20rpx;
+}
+
+.share-wechat {
+  background-size: 110rpx 110rpx;
+  position: absolute;
+  top: 1000rpx;
+  left: 164rpx;
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 50%;
+}
+
+.create-image {
+  background-size: 110rpx 110rpx;
+  position: absolute;
+  top: 1000rpx;
+  right: 164rpx;
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 50%;
+}
